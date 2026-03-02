@@ -188,4 +188,3 @@ if __name__ == "__main__":
             build_xml(variants)
     except Exception as e:
         print(f"❌ Įvyko klaida: {e}")
-    input("✅ Baigta! Paspausk Enter, kad uždarytum langą.")
