@@ -12,7 +12,7 @@ HEADERS = {
     "X-Shopify-Access-Token": ACCESS_TOKEN
 }
 
-OUTPUT_FILE = "glamur_ee_xml_finalvertimai.xml"
+OUTPUT_FILE = "glamur_ee_xml_final.xml"
 LIMIT = 50000
 
 
