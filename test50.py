@@ -180,7 +180,7 @@ def fetch_products(country_code="EE", locale="et"):
 
         cursor = edges[-1]["cursor"]
 
-        sleep(0.4)
+        sleep(1)
 
     print("\n===== SUMMARY =====")
 
