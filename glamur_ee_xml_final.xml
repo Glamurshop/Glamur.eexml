@@ -1823,7 +1823,7 @@
     <description><![CDATA[]]></description>
     <price>40.21</price>
     <condition>new</condition>
-    <stock>41</stock>
+    <stock>39</stock>
     <ean_code><![CDATA[812256028475]]></ean_code>
     <manufacturer_code><![CDATA[who-156953]]></manufacturer_code>
     <manufacturer><![CDATA[Ariana Grande]]></manufacturer>
@@ -6107,7 +6107,7 @@
     <description><![CDATA[]]></description>
     <price>256.69</price>
     <condition>new</condition>
-    <stock>4</stock>
+    <stock>3</stock>
     <ean_code><![CDATA[3508440001238]]></ean_code>
     <manufacturer_code><![CDATA[who-216102]]></manufacturer_code>
     <manufacturer><![CDATA[Creed]]></manufacturer>
@@ -8427,7 +8427,7 @@
   <product id="51963897151754">
     <title><![CDATA[Elie Saab Le Parfum EDP 30ml]]></title>
     <description><![CDATA[]]></description>
-    <price>35.86</price>
+    <price>38.76</price>
     <condition>new</condition>
     <stock>5</stock>
     <ean_code><![CDATA[7640233340004]]></ean_code>
@@ -9221,7 +9221,7 @@
     <description><![CDATA[]]></description>
     <price>89.15</price>
     <condition>new</condition>
-    <stock>7</stock>
+    <stock>6</stock>
     <ean_code><![CDATA[3760168591860]]></ean_code>
     <manufacturer_code><![CDATA[who-157436]]></manufacturer_code>
     <manufacturer><![CDATA[Etat Libre d'Orange]]></manufacturer>
@@ -10175,7 +10175,7 @@
     <description><![CDATA[]]></description>
     <price>51.16</price>
     <condition>new</condition>
-    <stock>30</stock>
+    <stock>29</stock>
     <ean_code><![CDATA[3346470147393]]></ean_code>
     <manufacturer_code><![CDATA[who-197498]]></manufacturer_code>
     <manufacturer><![CDATA[Guerlain]]></manufacturer>
@@ -13343,7 +13343,7 @@
     <description><![CDATA[]]></description>
     <price>46.69</price>
     <condition>new</condition>
-    <stock>334</stock>
+    <stock>333</stock>
     <ean_code><![CDATA[None]]></ean_code>
     <manufacturer_code><![CDATA[who-123141]]></manufacturer_code>
     <manufacturer><![CDATA[Issey Miyake]]></manufacturer>
@@ -13955,7 +13955,7 @@
     <description><![CDATA[]]></description>
     <price>104.88</price>
     <condition>new</condition>
-    <stock>10</stock>
+    <stock>9</stock>
     <ean_code><![CDATA[8435415062190]]></ean_code>
     <manufacturer_code><![CDATA[who-161896]]></manufacturer_code>
     <manufacturer><![CDATA[Jean Paul Gaultier]]></manufacturer>
@@ -16997,7 +16997,7 @@
     <description><![CDATA[]]></description>
     <price>20.45</price>
     <condition>new</condition>
-    <stock>39</stock>
+    <stock>37</stock>
     <ean_code><![CDATA[3386460077224]]></ean_code>
     <manufacturer_code><![CDATA[who-94446]]></manufacturer_code>
     <manufacturer><![CDATA[Lanvin]]></manufacturer>
@@ -18347,7 +18347,7 @@
     <description><![CDATA[]]></description>
     <price>24.97</price>
     <condition>new</condition>
-    <stock>173</stock>
+    <stock>172</stock>
     <ean_code><![CDATA[None]]></ean_code>
     <manufacturer_code><![CDATA[who-5234]]></manufacturer_code>
     <manufacturer><![CDATA[Moschino]]></manufacturer>
@@ -18365,7 +18365,7 @@
     <description><![CDATA[]]></description>
     <price>41.20</price>
     <condition>new</condition>
-    <stock>92</stock>
+    <stock>91</stock>
     <ean_code><![CDATA[8011003838011]]></ean_code>
     <manufacturer_code><![CDATA[who-115774]]></manufacturer_code>
     <manufacturer><![CDATA[Moschino]]></manufacturer>
@@ -22217,7 +22217,7 @@
     <description><![CDATA[]]></description>
     <price>14.98</price>
     <condition>new</condition>
-    <stock>65</stock>
+    <stock>64</stock>
     <ean_code><![CDATA[4011700426300]]></ean_code>
     <manufacturer_code><![CDATA[who-36946]]></manufacturer_code>
     <manufacturer><![CDATA[Tabac]]></manufacturer>
@@ -27581,7 +27581,7 @@
     <description><![CDATA[]]></description>
     <price>20.51</price>
     <condition>new</condition>
-    <stock>70</stock>
+    <stock>69</stock>
     <ean_code><![CDATA[20714192334]]></ean_code>
     <manufacturer_code><![CDATA[who-17165]]></manufacturer_code>
     <manufacturer><![CDATA[Clinique]]></manufacturer>
@@ -27599,7 +27599,7 @@
     <description><![CDATA[]]></description>
     <price>23.94</price>
     <condition>new</condition>
-    <stock>48</stock>
+    <stock>43</stock>
     <ean_code><![CDATA[20714979089]]></ean_code>
     <manufacturer_code><![CDATA[who-18859]]></manufacturer_code>
     <manufacturer><![CDATA[Clinique]]></manufacturer>
@@ -55571,7 +55571,7 @@
     <description><![CDATA[]]></description>
     <price>40.39</price>
     <condition>new</condition>
-    <stock>39</stock>
+    <stock>38</stock>
     <ean_code><![CDATA[8809695678431]]></ean_code>
     <manufacturer_code><![CDATA[who-217543]]></manufacturer_code>
     <manufacturer><![CDATA[VT Cosmetics]]></manufacturer>
@@ -58379,7 +58379,7 @@
     <description><![CDATA[]]></description>
     <price>33.63</price>
     <condition>new</condition>
-    <stock>29</stock>
+    <stock>28</stock>
     <ean_code><![CDATA[810014321202]]></ean_code>
     <manufacturer_code><![CDATA[who-160798]]></manufacturer_code>
     <manufacturer><![CDATA[StriVectin]]></manufacturer>
@@ -58458,24 +58458,6 @@
     <model><![CDATA[who-160811]]></model>
     <image_url><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/522470_star_light_retinol_night_oil_nocni_omlazujici_olej_l.jpg?v=1760806584]]></image_url>
     <product_url><![CDATA[https://glamur.ee/products/strivectin-star-light-retinolio-naktinis-aliejus?variant=51982548599050]]></product_url>
-    <category_id>0</category_id>
-    <category_name><![CDATA[Odos priežiūra]]></category_name>
-    <category_link><![CDATA[https://glamur.ee/collections/strivectin]]></category_link>
-    <delivery_price>4.49</delivery_price>
-    <delivery_time>10</delivery_time>
-  </product>
-  <product id="51982548631818">
-    <title><![CDATA[StriVectin Peptide Plump Line Replenishment Bounce seerum on nahaseerum intensiivseks kortsude silumiseks. 30ml]]></title>
-    <description><![CDATA[]]></description>
-    <price>41.39</price>
-    <condition>new</condition>
-    <stock>2</stock>
-    <ean_code><![CDATA[810014326368]]></ean_code>
-    <manufacturer_code><![CDATA[who-192581]]></manufacturer_code>
-    <manufacturer><![CDATA[StriVectin]]></manufacturer>
-    <model><![CDATA[who-192581]]></model>
-    <image_url><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/545980_peptide_plump_line_filling_bounce_serum_pletove_serum_pro_intenzivni_vyhlazeni_vrasek_l.jpg?v=1760806583]]></image_url>
-    <product_url><![CDATA[https://glamur.ee/products/strivectin-peptide-plump-line-papildymas-bounce-serumas-odos-serumas-intensyviam-rauksliu-islyginimui?variant=51982548631818]]></product_url>
     <category_id>0</category_id>
     <category_name><![CDATA[Odos priežiūra]]></category_name>
     <category_link><![CDATA[https://glamur.ee/collections/strivectin]]></category_link>
@@ -58793,7 +58775,7 @@
     <description><![CDATA[]]></description>
     <price>25.66</price>
     <condition>new</condition>
-    <stock>11</stock>
+    <stock>7</stock>
     <ean_code><![CDATA[8809913831297]]></ean_code>
     <manufacturer_code><![CDATA[who-211941]]></manufacturer_code>
     <manufacturer><![CDATA[SKIN1004]]></manufacturer>
@@ -58919,7 +58901,7 @@
     <description><![CDATA[]]></description>
     <price>10.45</price>
     <condition>new</condition>
-    <stock>80</stock>
+    <stock>79</stock>
     <ean_code><![CDATA[8809913831150]]></ean_code>
     <manufacturer_code><![CDATA[who-210256]]></manufacturer_code>
     <manufacturer><![CDATA[SKIN1004]]></manufacturer>
@@ -60683,7 +60665,7 @@
     <description><![CDATA[]]></description>
     <price>22.92</price>
     <condition>new</condition>
-    <stock>431</stock>
+    <stock>430</stock>
     <ean_code><![CDATA[768614171522]]></ean_code>
     <manufacturer_code><![CDATA[who-170395]]></manufacturer_code>
     <manufacturer><![CDATA[Shiseido]]></manufacturer>
@@ -63599,7 +63581,7 @@
     <description><![CDATA[]]></description>
     <price>9.89</price>
     <condition>new</condition>
-    <stock>12</stock>
+    <stock>11</stock>
     <ean_code><![CDATA[8432225096766]]></ean_code>
     <manufacturer_code><![CDATA[who-101726]]></manufacturer_code>
     <manufacturer><![CDATA[Revlon Professional]]></manufacturer>
@@ -63761,7 +63743,7 @@
     <description><![CDATA[]]></description>
     <price>12.77</price>
     <condition>new</condition>
-    <stock>18</stock>
+    <stock>16</stock>
     <ean_code><![CDATA[8432225114804]]></ean_code>
     <manufacturer_code><![CDATA[who-144645]]></manufacturer_code>
     <manufacturer><![CDATA[Revlon Professional]]></manufacturer>
@@ -74489,7 +74471,7 @@
     <description><![CDATA[]]></description>
     <price>15.39</price>
     <condition>new</condition>
-    <stock>25</stock>
+    <stock>24</stock>
     <ean_code><![CDATA[3600531700379]]></ean_code>
     <manufacturer_code><![CDATA[who-219440]]></manufacturer_code>
     <manufacturer><![CDATA[Maybelline]]></manufacturer>
@@ -82121,7 +82103,7 @@
     <description><![CDATA[]]></description>
     <price>6.78</price>
     <condition>new</condition>
-    <stock>4</stock>
+    <stock>3</stock>
     <ean_code><![CDATA[5998889511654]]></ean_code>
     <manufacturer_code><![CDATA[who-92338]]></manufacturer_code>
     <manufacturer><![CDATA[Kallos]]></manufacturer>
@@ -83345,7 +83327,7 @@
     <description><![CDATA[]]></description>
     <price>19.69</price>
     <condition>new</condition>
-    <stock>17</stock>
+    <stock>16</stock>
     <ean_code><![CDATA[8806135245765]]></ean_code>
     <manufacturer_code><![CDATA[who-197017]]></manufacturer_code>
     <manufacturer><![CDATA[Isntree]]></manufacturer>
@@ -99113,7 +99095,7 @@
     <description><![CDATA[]]></description>
     <price>13.99</price>
     <condition>new</condition>
-    <stock>113</stock>
+    <stock>112</stock>
     <ean_code><![CDATA[3401348840421]]></ean_code>
     <manufacturer_code><![CDATA[who-75826]]></manufacturer_code>
     <manufacturer><![CDATA[Bioderma]]></manufacturer>
@@ -100319,7 +100301,7 @@
     <description><![CDATA[]]></description>
     <price>17.06</price>
     <condition>new</condition>
-    <stock>29</stock>
+    <stock>28</stock>
     <ean_code><![CDATA[8809968130246]]></ean_code>
     <manufacturer_code><![CDATA[who-219109]]></manufacturer_code>
     <manufacturer><![CDATA[Beauty of Joseon]]></manufacturer>
@@ -110237,7 +110219,7 @@
     <description><![CDATA[]]></description>
     <price>30.79</price>
     <condition>new</condition>
-    <stock>6</stock>
+    <stock>5</stock>
     <ean_code><![CDATA[8011530817008]]></ean_code>
     <manufacturer_code><![CDATA[who-32316]]></manufacturer_code>
     <manufacturer><![CDATA[Trussardi Parfums]]></manufacturer>
@@ -112109,7 +112091,7 @@
     <description><![CDATA[]]></description>
     <price>96.42</price>
     <condition>new</condition>
-    <stock>348</stock>
+    <stock>347</stock>
     <ean_code><![CDATA[8016741072482]]></ean_code>
     <manufacturer_code><![CDATA[who-158300]]></manufacturer_code>
     <manufacturer><![CDATA[Tiziana Terenzi]]></manufacturer>
@@ -118301,7 +118283,7 @@
     <description><![CDATA[]]></description>
     <price>66.84</price>
     <condition>new</condition>
-    <stock>33</stock>
+    <stock>32</stock>
     <ean_code><![CDATA[838184005340]]></ean_code>
     <manufacturer_code><![CDATA[who-79788]]></manufacturer_code>
     <manufacturer><![CDATA[Robert Piguet]]></manufacturer>
@@ -124385,7 +124367,7 @@
     <description><![CDATA[]]></description>
     <price>20.42</price>
     <condition>new</condition>
-    <stock>63</stock>
+    <stock>60</stock>
     <ean_code><![CDATA[6296353407960]]></ean_code>
     <manufacturer_code><![CDATA[who-225968]]></manufacturer_code>
     <manufacturer><![CDATA[Paris Corner]]></manufacturer>
@@ -125339,7 +125321,7 @@
     <description><![CDATA[]]></description>
     <price>21.47</price>
     <condition>new</condition>
-    <stock>67</stock>
+    <stock>66</stock>
     <ean_code><![CDATA[6298575112349]]></ean_code>
     <manufacturer_code><![CDATA[who-220434]]></manufacturer_code>
     <manufacturer><![CDATA[Paris Corner]]></manufacturer>
@@ -136823,7 +136805,7 @@
     <description><![CDATA[]]></description>
     <price>18.74</price>
     <condition>new</condition>
-    <stock>479</stock>
+    <stock>478</stock>
     <ean_code><![CDATA[6291108735800]]></ean_code>
     <manufacturer_code><![CDATA[who-225533]]></manufacturer_code>
     <manufacturer><![CDATA[Maison Alhambra]]></manufacturer>
@@ -140297,7 +140279,7 @@
     <description><![CDATA[]]></description>
     <price>22.02</price>
     <condition>new</condition>
-    <stock>459</stock>
+    <stock>458</stock>
     <ean_code><![CDATA[6291108732496]]></ean_code>
     <manufacturer_code><![CDATA[who-188064]]></manufacturer_code>
     <manufacturer><![CDATA[Lattafa Perfumes]]></manufacturer>
@@ -141665,7 +141647,7 @@
     <description><![CDATA[]]></description>
     <price>15.12</price>
     <condition>new</condition>
-    <stock>175</stock>
+    <stock>174</stock>
     <ean_code><![CDATA[6291107453675]]></ean_code>
     <manufacturer_code><![CDATA[who-160705]]></manufacturer_code>
     <manufacturer><![CDATA[Lattafa Perfumes]]></manufacturer>
@@ -143375,7 +143357,7 @@
     <description><![CDATA[]]></description>
     <price>32.04</price>
     <condition>new</condition>
-    <stock>132</stock>
+    <stock>131</stock>
     <ean_code><![CDATA[3386460149280]]></ean_code>
     <manufacturer_code><![CDATA[who-5068]]></manufacturer_code>
     <manufacturer><![CDATA[Lacoste]]></manufacturer>
@@ -146003,7 +145985,7 @@
     <description><![CDATA[]]></description>
     <price>55.15</price>
     <condition>new</condition>
-    <stock>280</stock>
+    <stock>279</stock>
     <ean_code><![CDATA[3274872430587]]></ean_code>
     <manufacturer_code><![CDATA[who-5608]]></manufacturer_code>
     <manufacturer><![CDATA[Kenzo]]></manufacturer>
@@ -147191,7 +147173,7 @@
     <description><![CDATA[]]></description>
     <price>21.75</price>
     <condition>new</condition>
-    <stock>445</stock>
+    <stock>444</stock>
     <ean_code><![CDATA[3607345849867]]></ean_code>
     <manufacturer_code><![CDATA[who-50716]]></manufacturer_code>
     <manufacturer><![CDATA[Joop!]]></manufacturer>
@@ -147497,7 +147479,7 @@
     <description><![CDATA[]]></description>
     <price>57.65</price>
     <condition>new</condition>
-    <stock>10</stock>
+    <stock>8</stock>
     <ean_code><![CDATA[690251009008]]></ean_code>
     <manufacturer_code><![CDATA[who-125758]]></manufacturer_code>
     <manufacturer><![CDATA[Jo Malone]]></manufacturer>
@@ -151529,7 +151511,7 @@
     <description><![CDATA[]]></description>
     <price>25.04</price>
     <condition>new</condition>
-    <stock>98</stock>
+    <stock>97</stock>
     <ean_code><![CDATA[8005610714912]]></ean_code>
     <manufacturer_code><![CDATA[who-109462]]></manufacturer_code>
     <manufacturer><![CDATA[Hugo Boss]]></manufacturer>
@@ -155237,7 +155219,7 @@
     <description><![CDATA[]]></description>
     <price>17.03</price>
     <condition>new</condition>
-    <stock>166</stock>
+    <stock>165</stock>
     <ean_code><![CDATA[85715321312]]></ean_code>
     <manufacturer_code><![CDATA[who-66650]]></manufacturer_code>
     <manufacturer><![CDATA[Guess]]></manufacturer>
@@ -156317,7 +156299,7 @@
     <description><![CDATA[]]></description>
     <price>51.40</price>
     <condition>new</condition>
-    <stock>145</stock>
+    <stock>144</stock>
     <ean_code><![CDATA[3346470133334]]></ean_code>
     <manufacturer_code><![CDATA[who-102192]]></manufacturer_code>
     <manufacturer><![CDATA[Guerlain]]></manufacturer>
@@ -161069,7 +161051,7 @@
     <description><![CDATA[]]></description>
     <price>77.53</price>
     <condition>new</condition>
-    <stock>58</stock>
+    <stock>57</stock>
     <ean_code><![CDATA[3760168591280]]></ean_code>
     <manufacturer_code><![CDATA[who-165831]]></manufacturer_code>
     <manufacturer><![CDATA[Etat Libre d'Orange]]></manufacturer>
@@ -161195,7 +161177,7 @@
     <description><![CDATA[]]></description>
     <price>22.54</price>
     <condition>new</condition>
-    <stock>81</stock>
+    <stock>80</stock>
     <ean_code><![CDATA[27131017752]]></ean_code>
     <manufacturer_code><![CDATA[who-12176]]></manufacturer_code>
     <manufacturer><![CDATA[Estee Lauder]]></manufacturer>
@@ -164543,7 +164525,7 @@
     <description><![CDATA[]]></description>
     <price>46.70</price>
     <condition>new</condition>
-    <stock>14</stock>
+    <stock>11</stock>
     <ean_code><![CDATA[3348901288835]]></ean_code>
     <manufacturer_code><![CDATA[who-105076]]></manufacturer_code>
     <manufacturer><![CDATA[Dior]]></manufacturer>
@@ -168323,7 +168305,7 @@
     <description><![CDATA[]]></description>
     <price>25.14</price>
     <condition>new</condition>
-    <stock>372</stock>
+    <stock>371</stock>
     <ean_code><![CDATA[88300150410]]></ean_code>
     <manufacturer_code><![CDATA[who-1555]]></manufacturer_code>
     <manufacturer><![CDATA[Calvin Klein]]></manufacturer>
@@ -181578,24 +181560,6 @@
     <model><![CDATA[who-189422]]></model>
     <image_url><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/543791_manege_blanche_edp_l.jpg?v=1760744113]]></image_url>
     <product_url><![CDATA[https://glamur.ee/products/al-haramain-manege-blanche-edp?variant=51983784378634]]></product_url>
-    <category_id>0</category_id>
-    <category_name><![CDATA[kvepalai]]></category_name>
-    <category_link><![CDATA[https://glamur.ee/collections/al-haramain]]></category_link>
-    <delivery_price>4.49</delivery_price>
-    <delivery_time>10</delivery_time>
-  </product>
-  <product id="51983784444170">
-    <title><![CDATA[Al Haramain Madinah parfüümõli 15ml]]></title>
-    <description><![CDATA[]]></description>
-    <price>11.86</price>
-    <condition>new</condition>
-    <stock>2</stock>
-    <ean_code><![CDATA[6291100133666]]></ean_code>
-    <manufacturer_code><![CDATA[who-184284]]></manufacturer_code>
-    <manufacturer><![CDATA[Al Haramain]]></manufacturer>
-    <model><![CDATA[who-184284]]></model>
-    <image_url><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/540077_madinah_parfemovy_olej_l.jpg?v=1760744112]]></image_url>
-    <product_url><![CDATA[https://glamur.ee/products/al-haramain-madinah-parfumuotas-aliejus?variant=51983784444170]]></product_url>
     <category_id>0</category_id>
     <category_name><![CDATA[kvepalai]]></category_name>
     <category_link><![CDATA[https://glamur.ee/collections/al-haramain]]></category_link>
@@ -195935,7 +195899,7 @@
     <description><![CDATA[]]></description>
     <price>67.88</price>
     <condition>new</condition>
-    <stock>3</stock>
+    <stock>2</stock>
     <ean_code><![CDATA[8411061105009]]></ean_code>
     <manufacturer_code><![CDATA[who-228135]]></manufacturer_code>
     <manufacturer><![CDATA[Carolina Herrera]]></manufacturer>
@@ -196493,7 +196457,7 @@
     <description><![CDATA[]]></description>
     <price>15.44</price>
     <condition>new</condition>
-    <stock>4</stock>
+    <stock>3</stock>
     <ean_code><![CDATA[3616302780044]]></ean_code>
     <manufacturer_code><![CDATA[who-153133]]></manufacturer_code>
     <manufacturer><![CDATA[David Beckham]]></manufacturer>
@@ -207113,7 +207077,7 @@
     <description><![CDATA[]]></description>
     <price>21.04</price>
     <condition>new</condition>
-    <stock>46</stock>
+    <stock>43</stock>
     <ean_code><![CDATA[85805405441]]></ean_code>
     <manufacturer_code><![CDATA[who-59688]]></manufacturer_code>
     <manufacturer><![CDATA[Elizabeth Arden]]></manufacturer>
@@ -213305,7 +213269,7 @@
     <description><![CDATA[]]></description>
     <price>22.12</price>
     <condition>new</condition>
-    <stock>26</stock>
+    <stock>25</stock>
     <ean_code><![CDATA[8809576261462]]></ean_code>
     <manufacturer_code><![CDATA[who-211291]]></manufacturer_code>
     <manufacturer><![CDATA[SKIN1004]]></manufacturer>
@@ -215267,7 +215231,7 @@
     <description><![CDATA[]]></description>
     <price>41.38</price>
     <condition>new</condition>
-    <stock>67</stock>
+    <stock>66</stock>
     <ean_code><![CDATA[3386460153737]]></ean_code>
     <manufacturer_code><![CDATA[who-224453]]></manufacturer_code>
     <manufacturer><![CDATA[Mont Blanc]]></manufacturer>
@@ -220847,7 +220811,7 @@
     <description><![CDATA[]]></description>
     <price>105.99</price>
     <condition>new</condition>
-    <stock>11</stock>
+    <stock>10</stock>
     <ean_code><![CDATA[3614274172997]]></ean_code>
     <manufacturer_code><![CDATA[who-230509]]></manufacturer_code>
     <manufacturer><![CDATA[Prada]]></manufacturer>
@@ -225959,7 +225923,7 @@
     <description><![CDATA[]]></description>
     <price>12.59</price>
     <condition>new</condition>
-    <stock>15</stock>
+    <stock>14</stock>
     <ean_code><![CDATA[615908425819]]></ean_code>
     <manufacturer_code><![CDATA[who-103535]]></manufacturer_code>
     <manufacturer><![CDATA[Tigi]]></manufacturer>
@@ -226751,7 +226715,7 @@
     <description><![CDATA[]]></description>
     <price>82.25</price>
     <condition>new</condition>
-    <stock>34</stock>
+    <stock>33</stock>
     <ean_code><![CDATA[None]]></ean_code>
     <manufacturer_code><![CDATA[who-110889]]></manufacturer_code>
     <manufacturer><![CDATA[Serge Lutens]]></manufacturer>
@@ -229235,7 +229199,7 @@
     <description><![CDATA[]]></description>
     <price>27.95</price>
     <condition>new</condition>
-    <stock>218</stock>
+    <stock>217</stock>
     <ean_code><![CDATA[3614226905192]]></ean_code>
     <manufacturer_code><![CDATA[who-3810]]></manufacturer_code>
     <manufacturer><![CDATA[Burberry]]></manufacturer>
@@ -231413,7 +231377,7 @@
     <description><![CDATA[]]></description>
     <price>87.97</price>
     <condition>new</condition>
-    <stock>5</stock>
+    <stock>4</stock>
     <ean_code><![CDATA[3274872451148]]></ean_code>
     <manufacturer_code><![CDATA[who-209527]]></manufacturer_code>
     <manufacturer><![CDATA[Givenchy]]></manufacturer>
@@ -236093,7 +236057,7 @@
     <description><![CDATA[]]></description>
     <price>108.55</price>
     <condition>new</condition>
-    <stock>49</stock>
+    <stock>47</stock>
     <ean_code><![CDATA[3614273760164]]></ean_code>
     <manufacturer_code><![CDATA[who-181811]]></manufacturer_code>
     <manufacturer><![CDATA[Prada]]></manufacturer>
@@ -243509,7 +243473,7 @@
     <description><![CDATA[]]></description>
     <price>9.29</price>
     <condition>new</condition>
-    <stock>35</stock>
+    <stock>34</stock>
     <ean_code><![CDATA[4005800630958]]></ean_code>
     <manufacturer_code><![CDATA[who-177901]]></manufacturer_code>
     <manufacturer><![CDATA[Eucerin]]></manufacturer>
@@ -248783,7 +248747,7 @@
     <description><![CDATA[]]></description>
     <price>29.39</price>
     <condition>new</condition>
-    <stock>4</stock>
+    <stock>3</stock>
     <ean_code><![CDATA[8029352368837]]></ean_code>
     <manufacturer_code><![CDATA[who-198425]]></manufacturer_code>
     <manufacturer><![CDATA[OWAY]]></manufacturer>
@@ -253679,7 +253643,7 @@
     <description><![CDATA[]]></description>
     <price>18.74</price>
     <condition>new</condition>
-    <stock>63</stock>
+    <stock>67</stock>
     <ean_code><![CDATA[4011700740062]]></ean_code>
     <manufacturer_code><![CDATA[who-15125]]></manufacturer_code>
     <manufacturer><![CDATA[4711]]></manufacturer>
@@ -254075,7 +254039,7 @@
     <description><![CDATA[]]></description>
     <price>58.49</price>
     <condition>new</condition>
-    <stock>114</stock>
+    <stock>111</stock>
     <ean_code><![CDATA[634349685]]></ean_code>
     <manufacturer_code><![CDATA[who-82780]]></manufacturer_code>
     <manufacturer><![CDATA[Abercrombie & Fitch]]></manufacturer>
@@ -265109,7 +265073,7 @@
     <description><![CDATA[]]></description>
     <price>41.26</price>
     <condition>new</condition>
-    <stock>9</stock>
+    <stock>8</stock>
     <ean_code><![CDATA[3616303477936]]></ean_code>
     <manufacturer_code><![CDATA[who-197473]]></manufacturer_code>
     <manufacturer><![CDATA[Chloé]]></manufacturer>
@@ -267089,7 +267053,7 @@
     <description><![CDATA[]]></description>
     <price>10.58</price>
     <condition>new</condition>
-    <stock>29</stock>
+    <stock>28</stock>
     <ean_code><![CDATA[3616305026040]]></ean_code>
     <manufacturer_code><![CDATA[who-227746]]></manufacturer_code>
     <manufacturer><![CDATA[David Beckham]]></manufacturer>
@@ -268187,7 +268151,7 @@
     <description><![CDATA[]]></description>
     <price>32.41</price>
     <condition>new</condition>
-    <stock>26</stock>
+    <stock>25</stock>
     <ean_code><![CDATA[3605520680014]]></ean_code>
     <manufacturer_code><![CDATA[who-13732]]></manufacturer_code>
     <manufacturer><![CDATA[Diesel]]></manufacturer>
@@ -268794,24 +268758,6 @@
     <delivery_price>4.49</delivery_price>
     <delivery_time>10</delivery_time>
   </product>
-  <product id="52597270610186">
-    <title><![CDATA[Dior Miss Dior Blooming Bouquet EDT 30ml]]></title>
-    <description><![CDATA[]]></description>
-    <price>66.97</price>
-    <condition>new</condition>
-    <stock>2</stock>
-    <ean_code><![CDATA[3348901627351]]></ean_code>
-    <manufacturer_code><![CDATA[who-123108]]></manufacturer_code>
-    <manufacturer><![CDATA[Dior]]></manufacturer>
-    <model><![CDATA[who-123108]]></model>
-    <image_url><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/540867_miss_dior_blooming_bouquet_2023_edt_l_b8c80942-e820-4e94-838c-0803089f82e3.jpg?v=1771596328]]></image_url>
-    <product_url><![CDATA[https://glamur.ee/products/dior-miss-dior-blooming-bouquet-edt?variant=52597270610186]]></product_url>
-    <category_id>0</category_id>
-    <category_name><![CDATA[Kvepalai]]></category_name>
-    <category_link><![CDATA[https://glamur.ee/collections/dior]]></category_link>
-    <delivery_price>4.49</delivery_price>
-    <delivery_time>10</delivery_time>
-  </product>
   <product id="52597270708490">
     <title><![CDATA[Dior Miss Dior parfüümvesi EDP 150ml]]></title>
     <description><![CDATA[]]></description>
@@ -269357,7 +269303,7 @@
     <description><![CDATA[]]></description>
     <price>24.57</price>
     <condition>new</condition>
-    <stock>223</stock>
+    <stock>222</stock>
     <ean_code><![CDATA[763511009800]]></ean_code>
     <manufacturer_code><![CDATA[who-3666]]></manufacturer_code>
     <manufacturer><![CDATA[DKNY]]></manufacturer>
@@ -270455,7 +270401,7 @@
     <description><![CDATA[]]></description>
     <price>48.80</price>
     <condition>new</condition>
-    <stock>277</stock>
+    <stock>274</stock>
     <ean_code><![CDATA[8057971180561]]></ean_code>
     <manufacturer_code><![CDATA[who-80546]]></manufacturer_code>
     <manufacturer><![CDATA[Dolce Gabbana]]></manufacturer>
@@ -274865,7 +274811,7 @@
     <description><![CDATA[]]></description>
     <price>51.44</price>
     <condition>new</condition>
-    <stock>169</stock>
+    <stock>168</stock>
     <ean_code><![CDATA[3274872439061]]></ean_code>
     <manufacturer_code><![CDATA[who-183511]]></manufacturer_code>
     <manufacturer><![CDATA[Givenchy]]></manufacturer>
@@ -280643,7 +280589,7 @@
     <description><![CDATA[]]></description>
     <price>86.84</price>
     <condition>new</condition>
-    <stock>20</stock>
+    <stock>19</stock>
     <ean_code><![CDATA[8435415059060]]></ean_code>
     <manufacturer_code><![CDATA[who-103696]]></manufacturer_code>
     <manufacturer><![CDATA[Jean Paul Gaultier]]></manufacturer>
@@ -281075,7 +281021,7 @@
     <description><![CDATA[]]></description>
     <price>48.08</price>
     <condition>new</condition>
-    <stock>19</stock>
+    <stock>16</stock>
     <ean_code><![CDATA[None]]></ean_code>
     <manufacturer_code><![CDATA[who-172775]]></manufacturer_code>
     <manufacturer><![CDATA[Jimmy Choo]]></manufacturer>
@@ -281705,7 +281651,7 @@
     <description><![CDATA[]]></description>
     <price>55.22</price>
     <condition>new</condition>
-    <stock>5</stock>
+    <stock>4</stock>
     <ean_code><![CDATA[690251042302]]></ean_code>
     <manufacturer_code><![CDATA[who-119573]]></manufacturer_code>
     <manufacturer><![CDATA[Jo Malone]]></manufacturer>
@@ -284459,7 +284405,7 @@
     <description><![CDATA[]]></description>
     <price>14.77</price>
     <condition>new</condition>
-    <stock>5</stock>
+    <stock>2</stock>
     <ean_code><![CDATA[810876038294]]></ean_code>
     <manufacturer_code><![CDATA[who-177502]]></manufacturer_code>
     <manufacturer><![CDATA[Lamborghini]]></manufacturer>
@@ -289661,7 +289607,7 @@
     <description><![CDATA[]]></description>
     <price>18.00</price>
     <condition>new</condition>
-    <stock>304</stock>
+    <stock>303</stock>
     <ean_code><![CDATA[None]]></ean_code>
     <manufacturer_code><![CDATA[who-5235]]></manufacturer_code>
     <manufacturer><![CDATA[Moschino]]></manufacturer>
@@ -291029,7 +290975,7 @@
     <description><![CDATA[]]></description>
     <price>42.03</price>
     <condition>new</condition>
-    <stock>449</stock>
+    <stock>448</stock>
     <ean_code><![CDATA[3137370357667]]></ean_code>
     <manufacturer_code><![CDATA[who-4325]]></manufacturer_code>
     <manufacturer><![CDATA[Nina Ricci]]></manufacturer>
@@ -294287,7 +294233,7 @@
     <description><![CDATA[]]></description>
     <price>36.34</price>
     <condition>new</condition>
-    <stock>67</stock>
+    <stock>66</stock>
     <ean_code><![CDATA[3386460102995]]></ean_code>
     <manufacturer_code><![CDATA[who-136588]]></manufacturer_code>
     <manufacturer><![CDATA[Rochas]]></manufacturer>
@@ -298229,7 +298175,7 @@
     <description><![CDATA[]]></description>
     <price>41.31</price>
     <condition>new</condition>
-    <stock>317</stock>
+    <stock>316</stock>
     <ean_code><![CDATA[7640496670238]]></ean_code>
     <manufacturer_code><![CDATA[who-98486]]></manufacturer_code>
     <manufacturer><![CDATA[Tommy Hilfiger]]></manufacturer>
@@ -303555,9 +303501,9 @@
   <product id="52598749167882">
     <title><![CDATA[Yves Saint Laurent Y Le Parfum 60ml]]></title>
     <description><![CDATA[]]></description>
-    <price>90.13</price>
+    <price>95.19</price>
     <condition>new</condition>
-    <stock>2</stock>
+    <stock>17</stock>
     <ean_code><![CDATA[None]]></ean_code>
     <manufacturer_code><![CDATA[who-143979]]></manufacturer_code>
     <manufacturer><![CDATA[Yves Saint Laurent]]></manufacturer>
@@ -315509,7 +315455,7 @@
     <description><![CDATA[]]></description>
     <price>73.66</price>
     <condition>new</condition>
-    <stock>59</stock>
+    <stock>56</stock>
     <ean_code><![CDATA[768614149385]]></ean_code>
     <manufacturer_code><![CDATA[who-129206]]></manufacturer_code>
     <manufacturer><![CDATA[Shiseido]]></manufacturer>
@@ -316103,7 +316049,7 @@
     <description><![CDATA[]]></description>
     <price>92.19</price>
     <condition>new</condition>
-    <stock>180</stock>
+    <stock>179</stock>
     <ean_code><![CDATA[888066075138]]></ean_code>
     <manufacturer_code><![CDATA[who-157291]]></manufacturer_code>
     <manufacturer><![CDATA[Tom Ford]]></manufacturer>
