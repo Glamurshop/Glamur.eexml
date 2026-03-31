@@ -231,13 +231,8 @@ def build_xml(products):
             f.write(f'    <category_id>0</category_id>\n')
             f.write(f'    <category_name><![CDATA[{p["productType"]}]]></category_name>\n')
             f.write(f'    <category_link><![CDATA[https://glamur.ee/collections/{slugify(p["vendor"])}]]></category_link>\n')
-            f.write("    <delivery>\n")
-            f.write("      <home_delivery>\n")
-            f.write("        <working_days><![CDATA[4-5]]></working_days>\n")
-            f.write("        <price><![CDATA[3.49]]></price>\n")
-            f.write("      </home_delivery>\n")
-            f.write("    </delivery>\n")
-            f.write("  </product>\n")
+            f.write(f'    <delivery_price>3.49</delivery_price>\n')
+            f.write(f'    <delivery_time>4</delivery_time>\n')
 
         f.write("</products>\n")
 
