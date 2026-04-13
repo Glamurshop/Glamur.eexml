@@ -18,178 +18,23 @@ HEADERS = {
 OUTPUT_FILE = "glamur_ee_xml_final.xml"
 
 # =========================
-# FETCH PRODUCTS
+# DUMMY PRODUCT
 # =========================
 
-def fetch_products(country_code="EE", locale="et"):
-
-    variants = []
-    cursor = None
-
-    total_api = 0
-    total_kept = 0
-    skipped_price = 0
-    skipped_stock = 0
-
-    while True:
-
-        query = f"""
-        {{
-          productVariants(first: 100{', after: "' + cursor + '"' if cursor else ''}) {{
-            pageInfo {{
-              hasNextPage
-            }}
-            edges {{
-              cursor
-              node {{
-                id
-                sku
-                barcode
-                inventoryQuantity
-                image {{ src }}
-                selectedOptions {{
-                  name
-                  value
-                }}
-                product {{
-                  id
-                  handle
-                  vendor
-                  status
-                  productType
-                  featuredImage {{ src }}
-                  title
-                  bodyHtml
-                  translations(locale: "{locale}") {{
-                    key
-                    value
-                  }}
-                }}
-                contextualPricing(context: {{country: {country_code}}}) {{
-                  price {{ amount }}
-                }}
-              }}
-            }}
-          }}
-        }}
-        """
-
-        response = requests.post(GRAPHQL_URL, headers=HEADERS, json={"query": query})
-
-        if response.status_code != 200:
-            print("HTTP ERROR:", response.text)
-            break
-
-        data = response.json()
-
-        # ===== ERROR CHECK =====
-
-        if "data" not in data:
-            print("SHOPIFY ERROR:")
-            print(data)
-            break
-
-        edges = data["data"]["productVariants"]["edges"]
-
-        for edge in edges:
-
-            node = edge["node"]
-            total_api += 1
-
-            product = node["product"]
-
-            if product["status"] != "ACTIVE":
-                continue
-
-            # =====================
-            # PRICE
-            # =====================
-
-            contextual = node.get("contextualPricing") or {}
-            price_data = contextual.get("price") or {}
-
-            price = float(price_data.get("amount") or 0)
-
-            if price <= 0:
-                skipped_price += 1
-                continue
-
-            # =====================
-            # INVENTORY
-            # =====================
-
-            inventory = node.get("inventoryQuantity") or 0
-
-            if inventory <= 0:
-                skipped_stock += 1
-                continue
-
-            # =====================
-            # TITLE
-            # =====================
-
-            translations = product.get("translations", [])
-
-            title_et = next((t["value"] for t in translations if t["key"] == "title"), None)
-            body_et = next((t["value"] for t in translations if t["key"] == "body_html"), None)
-
-            title = title_et or product.get("title") or "Product"
-
-            description = re.sub(r"<.*?>", "", body_et or product.get("bodyHtml") or "").strip()
-
-            variant_name = " ".join([opt["value"] for opt in (node.get("selectedOptions") or [])])
-
-            full_title = f"{title} {variant_name}".strip()
-
-            # =====================
-            # IMAGE
-            # =====================
-
-            image = ""
-
-            if node.get("image"):
-                image = node["image"]["src"]
-
-            elif product.get("featuredImage"):
-                image = product["featuredImage"]["src"]
-
-            # =====================
-            # APPEND
-            # =====================
-
-            variants.append({
-                "id": node["id"].split("/")[-1],
-                "title": full_title,
-                "handle": product["handle"],
-                "vendor": product["vendor"],
-                "sku": node["sku"],
-                "barcode": node["barcode"],
-                "price": f"{price:.2f}",
-                "inventory": inventory,
-                "image": image,
-                "description": description,
-                "productType": product["productType"] or product["vendor"]
-            })
-
-            total_kept += 1
-
-        print(f"API read: {total_api} | valid: {total_kept}")
-
-        if not data["data"]["productVariants"]["pageInfo"]["hasNextPage"]:
-            break
-
-        cursor = edges[-1]["cursor"]
-
-        sleep(1)
-
-    print("\n===== SUMMARY =====")
-
-    print("TOTAL FROM API:", total_api)
-    print("VALID PRODUCTS:", total_kept)
-    print("SKIPPED PRICE:", skipped_price)
-    print("SKIPPED STOCK:", skipped_stock)
-
-    return variants
+def get_dummy_product():
+    return [{
+        "id": "999999999",
+        "title": "Feed temporarily disabled",
+        "handle": "feed-disabled",
+        "vendor": "Glamur",
+        "sku": "DISABLED",
+        "barcode": "",
+        "price": "1000.00",
+        "inventory": 1,
+        "image": "",
+        "description": "Feed is temporarily disabled",
+        "productType": "Disabled"
+    }]
 
 
 # =========================
@@ -233,6 +78,7 @@ def build_xml(products):
             f.write(f'    <category_link><![CDATA[https://glamur.ee/collections/{slugify(p["vendor"])}]]></category_link>\n')
             f.write(f'    <delivery_price>3.49</delivery_price>\n')
             f.write(f'    <delivery_time>4</delivery_time>\n')
+            f.write(f'  </product>\n')
 
         f.write("</products>\n")
 
@@ -245,11 +91,9 @@ def build_xml(products):
 
 if __name__ == "__main__":
 
-    print("START FETCHING SHOPIFY DATA\n")
+    print("GENERATING DUMMY XML FEED...\n")
 
-    products = fetch_products()
-
-    print("\nBUILDING XML\n")
+    products = get_dummy_product()
 
     build_xml(products)
 
